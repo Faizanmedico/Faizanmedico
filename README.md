@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Faizanmedico
+- 👋  I am a developer. my key skills are as follows HTML, JavaScript, CSS, Bootstrap, 
+
 - 👀 I’m interested in python programming.
 - 🌱 I’m currently learning I use Java with HTML and CSS.
+    follows HTML, JavaScript, CSS, Bootstrap, PHP(Core, CI, Laravel), Angular
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.youtube.com/@faizanmedico/featured
