@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/htfaizanmedico-sultan-ahmed-b731a1285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htfaizanmedico-sultan-ahmed-b731a1285/" height="30" width="40" /></a>
 <a href="https://fb.com/faizan.medico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizan.medico" height="30" width="40" /></a>
 <a href="https://instagram.com/faizanmedico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizanmedico" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/faizanmedico/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faizanmedico/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/faizanmedico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faizanmedico/featured" height="30" width="40" /></a>
 <a href="https://discord.gg/1217806603248730112/1217806603726753824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1217806603248730112/1217806603726753824" height="30" width="40" /></a>
 </p>
 
