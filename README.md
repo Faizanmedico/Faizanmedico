@@ -2,6 +2,33 @@
 <h2 align="center">A passionate frontend developer from Pakistan</h2>
 <h1 style="color:blue;">faizanmedico</h1>
 
+<style>
+body {
+  background-color: lightgrey;
+  color: blue;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+div {
+  background-color: blue;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This page has a grey background color and a blue text.</p>
+<div>This is a div.</div>
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanmedico&label=Profile%20views&color=0e75b6&style=flat" alt="faizanmedico" /> </p>
 
