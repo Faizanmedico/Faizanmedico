@@ -3,10 +3,11 @@
 <h1 style="color:blue;">faizanmedico</h1>
 <p style="color:red;">Pakistan</p>
 <body style="background-color:powderblue;">
-<h1 style="background-color:powderblue;">This is a heading</h1>
+<h1 style="background-color:powderblue;">PIAIC STUDENT</h1>
 <p style="background-color:tomato;">This is a paragraph.</p>
-<h1 style="color:blue;">This is a heading</h1>
+<h1 style="color:blue;">I'm learning Next JS</h1>
 <p style="color:red;">This is a paragraph.</p>
+<img src="wrongname.gif" alt="Flowers in Chania">
 
 <h1 style="font-size:300%;">This is a heading</h1>
 <p style="font-size:160%;">This is a paragraph.</p>
