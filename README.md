@@ -7,23 +7,10 @@
 <p style="background-color:tomato;">This is a paragraph.</p>
 <h1 style="color:blue;">I'm learning Next JS</h1>
 <p style="color:red;">This is a paragraph.</p>
-<img src="wrongname.gif" alt="Flowers in Chania">
-  <div>123456789</div>
-
-<p>
-  I’m Derek, an astro-engineer based in Tattooine. I like to build X-Wings
-  at <a class="underline decoration-sky-500/30">My Company, Inc</a>. Outside
-  of work, I like to <a class="underline decoration-pink-500/30">watch pod-racing</a>
-  and have <a class="underline decoration-indigo-500/30">light-saber</a> fights.
-</p>
-
-     <p className="text-2xl truncate">Sultan</p>
-        <p className="text-[34px]">Sultan Ahmed</p>
-
-
-  <div>2</div>
+<img src="1.png" alt="Flowers in Chania">
 
 <h1 style="font-size:300%;">This is a heading</h1>
+ <p className="text-2xl truncate">Sultan</p>
 
 <p style="font-size:160%;">This is a paragraph.</p>
 
