@@ -17,7 +17,8 @@
   and have <a class="underline decoration-indigo-500/30">light-saber</a> fights.
 </p>
 
-  
+     <p className="text-2xl truncate">Sultan</p>
+
   <div>2</div>
 
 <h1 style="font-size:300%;">This is a heading</h1>
