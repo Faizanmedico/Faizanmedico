@@ -8,8 +8,11 @@
 <h1 style="color:blue;">I'm learning Next JS</h1>
 <p style="color:red;">This is a paragraph.</p>
 <img src="wrongname.gif" alt="Flowers in Chania">
+  <div>123456789</div>
+  <div>2</div>
 
 <h1 style="font-size:300%;">This is a heading</h1>
+
 <p style="font-size:160%;">This is a paragraph.</p>
 
 
