@@ -18,6 +18,8 @@
 </p>
 
      <p className="text-2xl truncate">Sultan</p>
+        <p className="text-[34px]">Sultan Ahmed</p>
+
 
   <div>2</div>
 
