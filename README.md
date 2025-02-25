@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sultan Ahmed</h1>
-<h2 align="center">A passionate frontend developer from Pakistan</h2>
 <h1 style="color:blue;">faizanmedico</h1>
-<p style="color:red;">Pakistan</p>
-<body style="background-color:powderblue;">
-<h1 style="background-color:powderblue;">PIAIC STUDENT</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
 <h1 style="color:blue;">I'm learning Next JS</h1>
-<p style="color:red;">This is a paragraph.</p>
-<img src="1.png" alt="Flowers in Chania">
-
-<h1 style="font-size:300%;">This is a heading</h1>
- <p className="text-2xl truncate">Sultan</p>
-
-<p style="font-size:160%;">This is a paragraph.</p>
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanmedico&label=Profile%20views&color=0e75b6&style=flat" alt="faizanmedico" /> </p>
 
