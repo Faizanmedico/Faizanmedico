@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sultan Ahmed</h1>
-<h1 style="color:blue;">faizanmedico</h1>
-<h1 style="color:blue;">I'm learning Next JS</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanmedico&label=Profile%20views&color=0e75b6&style=flat" alt="faizanmedico" /> </p>
 
@@ -10,9 +8,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **HTML & CSS**
-
-- 📫 How to reach me **faizanmedico@gmail.com**https://github.com/users/Faizanmedico/achievements/quickdraw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
