@@ -2,11 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
 
   
 <body>
@@ -49,6 +44,32 @@ Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lo
 </table>
 
 <p>To understand the example better, we have added borders to the table.</p>
+
+
+
+<h1>The input form attribute</h1>
+
+<p>The form attribute specifies the form an input element belongs to.</p>
+
+<form action="/action_page.php" id="form1">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<p>The "Last name" field below is outside the form element, but still part of the form.</p>
+
+<label for="lname">Last name:</label>
+<input type="text" id="lname" name="lname" form="form1">
+
+<audio controls autoplay>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0">
+</iframe>
 
 
 </body>
