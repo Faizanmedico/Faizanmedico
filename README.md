@@ -2,66 +2,58 @@
 
 <!DOCTYPE html>
 <html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+  
 <body>
 
-<div class="w3-container">
-  <h1>Background Colors</h1>
-  <p>The w3-color classes define background colors for HTML elements:</p>
-</div>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
 
-<div class="w3-container w3-red">
-  <h2>London</h2>
-  <p>London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.</p>
-</div>
+<p style="background-color:Tomato;">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+</p>
 
-<div class="w3-container w3-teal">
-  <h2>London</h2>
-  <p>London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.</p>
-</div>
 
-<div class="w3-container w3-yellow">
-  <h2>London</h2>
-  <p>London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.</p>
-</div>
+<h2>Absolute URLs</h2>
+<p><a href="https://www.w3.org/" target="_blank">W3C</a></p>
+<p><a href="https://www.google.com/" target="_blank">Google</a></p>
 
-<div class="w3-container w3-gray">
-  <h2>London</h2>
-  <p>London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.</p>
-</div>
+<h2>Relative URLs</h2>
+<p><a href="html_images.asp">HTML Images</a></p>
+<p><a href="/css/default.asp">CSS Tutorial</a></p>
 
-<div class="w3-container w3-grey">
-  <h2>London</h2>
-  <p>London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.</p>
-</div>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+<p>To understand the example better, we have added borders to the table.</p>
+
 
 </body>
-</html> 
+</html>
 
-
-<div class="w3-container w3-lobster">
-  <p class="w3-xlarge">Making the Web!</p>
-  <p class="w3-xxlarge">Making the Web!</p>
-  <p class="w3-xxxlarge">Making the Web!</p>
-</div>
-
-<p>Default:</p>
-<div class="w3-bar w3-border w3-green">
-  <a href="#" class="w3-bar-item w3-button">Home</a>
-  <a href="#" class="w3-bar-item w3-button">Link 1</a>
-  <a href="#" class="w3-bar-item w3-button">Link 2</a>
-  <a href="#" class="w3-bar-item w3-button">Link 3</a>
-</div>
-
-<p>w3-large:</p>
-<div class="w3-bar w3-border w3-green w3-large">
-  <a href="#" class="w3-bar-item w3-button">Home</a>
-  <a href="#" class="w3-bar-item w3-button">Link 1</a>
-  <a href="#" class="w3-bar-item w3-button">Link 2</a>
-  <a href="#" class="w3-bar-item w3-button">Link 3</a>
-</div>
 
 
 
