@@ -1,26 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sultan Ahmed</h1>
 
-<!DOCTYPE html>
-<html>
+<h2>An Unordered HTML List</h2>
 
-  
-<body>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
 
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<h2>An Ordered HTML List</h2>
 
-<p style="background-color:Tomato;">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-</p>
-
-
-<h2>Absolute URLs</h2>
-<p><a href="https://www.w3.org/" target="_blank">W3C</a></p>
-<p><a href="https://www.google.com/" target="_blank">Google</a></p>
-
-<h2>Relative URLs</h2>
-<p><a href="html_images.asp">HTML Images</a></p>
-<p><a href="/css/default.asp">CSS Tutorial</a></p>
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
 
 
 <h2>A basic HTML table</h2>
