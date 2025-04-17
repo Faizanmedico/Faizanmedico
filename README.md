@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sultan Ahmed</h1>
 
+<p id="Demo">This is paragraph 1.</p>
+<p id="demo">This is paragraph 2.</p>
+
+<script>
+// Only paragraph 2 will be overwritten
+document.getElementById("demo").innerHTML = "HELLO.";
+</script>
+
+
+
 <h2>An Unordered HTML List</h2>
 
 <ul>
