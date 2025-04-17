@@ -1,16 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sultan Ahmed</h1>
 
-<!DOCTYPE html>
-<html>
-<body>
+<h2>Table With Border Color</h2>
 
-<svg width="400" height="120">
-  <rect x="10" y="10" width="200" height="100" stroke="red" stroke-width="6" fill="blue" />
-  Sorry, your browser does not support inline SVG.
-</svg>
- 
-</body>
-</html>
+<p>Use the CSS border-color property to set the color of the borders.</p>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
 
 
 
