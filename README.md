@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sultan Ahmed</h1>
 
-<p id="Demo">This is paragraph 1.</p>
-<p id="demo">This is paragraph 2.</p>
+<!DOCTYPE html>
+<html>
+<body>
 
-<script>
-// Only paragraph 2 will be overwritten
-document.getElementById("demo").innerHTML = "HELLO.";
-</script>
+<svg width="400" height="120">
+  <rect x="10" y="10" width="200" height="100" stroke="red" stroke-width="6" fill="blue" />
+  Sorry, your browser does not support inline SVG.
+</svg>
+ 
+</body>
+</html>
 
 
 
