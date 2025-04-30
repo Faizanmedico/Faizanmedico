@@ -85,6 +85,15 @@
 
 <p>I am normal</p>
 <p style="color:red;">I am red</p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanmedico&show_icons=true&locale=en&layout=compact" alt="faizanmedico" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanmedico&show_icons=true&locale=en" alt="faizanmedico" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanmedico&" alt="faizanmedico" /></p>
+
 <p style="color:blue;">I am blue</p>
 <p style="font-size:50px;">I am big</p>
 
