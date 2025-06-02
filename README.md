@@ -66,19 +66,19 @@
     <th>Age</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>Sultan</td>
+    <td>Ahmed</td>
     <td>50</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Arsalan</td>
+    <td>Ahmed</td>
+    <td>18</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>Amin</td>
+    <td>Ahmed</td>
+    <td>22</td>
   </tr>
 </table>
 
