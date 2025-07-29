@@ -1,3 +1,164 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sultan Ahmed – Frontend Developer Resume</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #e9f0fa;
+      color: #333;
+    }
+    .container {
+      max-width: 850px;
+      margin: 2rem auto;
+      background: #cacfd1;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #2E3A8C;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0;
+    }
+    .contact, .section {
+      margin-bottom: 1.5rem;
+    }
+    .section-title {
+      border-bottom: 2px solid #2E3A8C;
+      margin-bottom: 0.5rem;
+      padding-bottom: 0.25rem;
+      font-size: 1.25rem;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    .highlight {
+      color: #2E3A8C;
+    }
+    a {
+      color: #2E3A8C;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      .container {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="contact">
+      <h1>Sultan Ahmed</h1>
+      <p>Frontend Web Developer | React & Next.js Enthusiast | IT Solutions Specialist</p>
+      <p>📍 House No. 735, Street No. 23-C, Mahmoodabad No. 5, Karachi</p>
+      <p>📞 0310-2329292 | 0301-323292 | ✉ faizanmedico@gmail.com</p>
+      <p>🔗 <a href="https://github.com/sultanmedico" target="_blank">GitHub: sultanmedico</a> | Portfolio: [Add Your Link]</p>
+    </header>
+
+    <section class="section">
+      <h2 class="section-title">🛠 Technical Skills</h2>
+      <ul>
+        <li>Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript</li>
+        <li>Frameworks: React.js (Learning), Next.js (Learning)</li>
+        <li>Version Control: Git, GitHub</li>
+        <li>UI/UX: Responsive Design, Cross-Browser Compatibility</li>
+        <li>Soft Skills: Problem Solving, Team Collaboration, Project Coordination</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">🎓 Education</h2>
+      <p><strong>Bachelor of Science (B.Sc.)</strong> – Physics, Chemistry, Mathematics</p>
+      <p>Urdu College, Karachi</p>
+      <p><em>Developed strong analytical and problem-solving skills, beneficial for programming.</em></p>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">💼 Professional Experience</h2>
+      <p><strong>IT & Business Solutions Manager</strong></p>
+      <p>CBOG (Sultan International Business Organization), Karachi</p>
+      <ul>
+        <li>Managed IT infrastructure and developed web-based business solutions</li>
+        <li>Contributed to front-end development and UI/UX planning</li>
+        <li>Coordinated between technical and non-technical teams</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">🚀 Projects & Contributions</h2>
+      <ul>
+        <li><strong>Personal Portfolio Website</strong> – (HTML, CSS, JavaScript)
+          <ul>
+            <li>Responsive and animated portfolio to showcase projects</li>
+            <li>Clean UI and user-friendly layout</li>
+          </ul>
+        </li>
+        <li><strong>E-Commerce Landing Page</strong> – (React.js – In Progress)
+          <ul>
+            <li>Dynamic product showcase with API data</li>
+            <li>Exploring React hooks and state management</li>
+          </ul>
+        </li>
+        <li><strong>GitHub Activity</strong>
+          <ul>
+            <li>Experimenting with React Hooks, Next.js routing, and TypeScript</li>
+            <li>Open to contributing to open-source projects</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">📚 Ongoing Learning & Certifications</h2>
+      <ul>
+        <li>React & Next.js Deep Dive – SSR, component lifecycle, routing</li>
+        <li>Governor of Sindh’s IT Training Program – Full-stack & AI development</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">🌟 Personal Statement</h2>
+      <p>
+        I am a highly motivated web developer who loves turning ideas into functional, elegant digital experiences. 
+        My background in science has sharpened my logical thinking, while my curiosity keeps me learning modern tech. 
+        I enjoy teamwork, creative challenges, and building things that matter.
+      </p>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">✅ Why Hire Me?</h2>
+      <ul>
+        <li>Quick Learner – Constantly upskilling (currently React.js & Next.js)</li>
+        <li>Hands-On Experience – Managed real-world IT/web projects</li>
+        <li>Creative + Technical – Balances code efficiency with user-centric design</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">📩 Let’s Connect</h2>
+      <p>Email: <a href="mailto:faizanmedico@gmail.com">faizanmedico@gmail.com</a></p>
+      <p>Phone: 0310-2329292 | 0301-323292</p>
+    </section>
+  </div>
+</body>
+</html>
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sultan Ahmed</h1>
 
 <h2>Striped Table</h2>
