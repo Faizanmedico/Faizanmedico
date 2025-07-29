@@ -1,8 +1,4 @@
       <p>📞 0310-2329292 | 0301-323292 | ✉ faizanmedico@gmail.com</p>
-      <p>🔗 <a href="https://github.com/sultanmedico" target="_blank">GitHub: sultanmedico</a> | Portfolio: [Add Your Link]</p>
-
-
-
 
 
 <h1 align="center">Hi 👋, I'm Sultan Ahmed</h1>
